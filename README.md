@@ -11,6 +11,7 @@ Rozwiązanie to klasyfikacja zdjęć na dwie klasy, **dobry** i **wadliwy**, sie
 ## Dane
 
 Publiczny zbiór zdjęć odlewów z Kaggle: [Casting product image data for quality inspection](https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product).
+Autor zbioru: Ravirajsinh Dabhi, licencja CC BY-NC-ND 4.0 (użycie niekomercyjne).
 Używane są tylko oryginalne zdjęcia 512×512 (519 dobrych, 781 wadliwych). Zbiór nie jest częścią repozytorium; notebook pobiera go przy pierwszym uruchomieniu do folderu `dane/`.
 
 ## Wyniki na zbiorze testowym (195 zdjęć)
