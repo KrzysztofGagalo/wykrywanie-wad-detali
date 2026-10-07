@@ -6,6 +6,7 @@ Rozwiązanie to klasyfikacja zdjęć na dwie klasy, **dobry** i **wadliwy**, sie
 
 ## Zawartość
 
+- `opis-rozwiazania.md` – opis rozwiązania: dane, model, pomiar skuteczności, postępowanie przy niepewności i pomyłkach.
 - `wykrywanie_wad.ipynb` – notebook z całym procesem: dane, podział, augmentacja, model, uczenie, ocena, strefa „niepewny". Wyniki i wykresy są zapisane w pliku.
 
 ## Dane
